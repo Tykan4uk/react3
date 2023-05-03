@@ -1,0 +1,14 @@
+.inputBlock {
+  width: 620px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.inputField {
+  padding: 5px;
+  width: 500px;
+}
+
+.inputButton {
+  width: 100px;
+}
