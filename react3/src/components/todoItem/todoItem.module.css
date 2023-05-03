@@ -1,0 +1,20 @@
+.todoItem {
+  width: 620px;
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.todoText {
+  background-color: aliceblue;
+  border-radius: 5px;
+  width: 500px;
+  padding: 5px;
+}
+
+.todoButton {
+  width: 100px;
+}
